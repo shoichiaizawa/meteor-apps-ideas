@@ -47,5 +47,5 @@ Thankfully, I came up with some chances which I may be able to apply this techno
 ### I created a GitHub Issue for each app:
 
 - [Ideas and TODOs for a bingo game app](https://github.com/shoichiaizawa/meteor-apps-ideas/issues/1)
-- [TODOs and ideas for a topic generator app](https://github.com/shoichiaizawa/meteor-apps-ideas/issues/2)
+- [Ideas and TODOs for a topic generator app](https://github.com/shoichiaizawa/meteor-apps-ideas/issues/2)
 
